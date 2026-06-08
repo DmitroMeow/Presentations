@@ -2,9 +2,9 @@ import { definePageMetaTags } from 'svelte-meta-tags';
 
 export const load = () => {
 	const pageTags = definePageMetaTags({
-		title: 'Головна',
+		title: 'Презинтація / Броварський Ліцей №10',
 		openGraph: {
-			title: 'Головна'
+			title: 'Презинтація / Броварський Ліцей №10'
 		}
 	});
 
