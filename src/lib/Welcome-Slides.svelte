@@ -29,7 +29,7 @@
 	</section>
 	<section>
 		<h1 class="r-fit-text">Презинтація до _________</h1>
-		<a href="/geography/">Перейти</a>
+		<a href="/geography">Перейти</a>
 	</section>
 </section>
 <section>
@@ -38,7 +38,7 @@
 	</section>
 	<section>
 		<h1 class="r-fit-text">Презинтація до _________</h1>
-		<a href="/zarlit/">Перейти</a>
+		<a href="/zarlit">Перейти</a>
 	</section>
 </section>
 <section>
@@ -47,6 +47,6 @@
 	</section>
 	<section>
 		<h1 class="r-fit-text">Презинтація до _________</h1>
-		<a href="/biology/">Перейти</a>
+		<a href="/biology">Перейти</a>
 	</section>
 </section>
